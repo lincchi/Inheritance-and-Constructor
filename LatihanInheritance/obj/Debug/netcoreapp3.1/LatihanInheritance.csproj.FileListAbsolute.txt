@@ -1,0 +1,11 @@
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.csprojAssemblyReference.cache
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfoInputs.cache
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.AssemblyInfo.cs
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.exe
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.deps.json
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.json
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.runtimeconfig.dev.json
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.dll
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\bin\Debug\netcoreapp3.1\LatihanInheritance.pdb
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.dll
+I:\College\Semester 2\Pemrograman\LatihanInheritance\LatihanInheritance\obj\Debug\netcoreapp3.1\LatihanInheritance.pdb
